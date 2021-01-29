@@ -2,7 +2,7 @@
 crawl word from web Cambridge dictionary
 
 This is my first project upload in github.
-you provide a txt document and this crawler will find meaning and other info of the word in the txt, and write them into result.txt
+you provide a txt document and this crawler will find meaning and other info of the word in the txt, and write them into WordList.txt
 you can start it by using "scrapy crawl wordSpider"
 I probably won't change it in the future, it is just used for fun.
 
